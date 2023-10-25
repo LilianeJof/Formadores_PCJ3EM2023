@@ -1,1 +1,16 @@
-color: 
+ody {
+
+    background-color:#FFC0CB;
+}
+
+
+#titulo{
+    text-align: center;
+    font-size: 30px;
+    color: rgb(63, 3, 43)
+}
+.texto {
+    text-align: center;
+    color: rgb(188, 10, 108);
+    font-size: 20px;
+}
